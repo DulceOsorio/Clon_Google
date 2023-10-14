@@ -1,6 +1,6 @@
 # Portafolio personal: Tecnolochicas PRO
 
-Descripción de mi proyecto
+
 Este proyecto fue creado durante el bootcamp Technolochicas PRO, es una página responsiva( adaptable a distintos dispositivos).
 
 El próposito de la creación de este sitio web es hacer un clon de google lo mas similar posible, con los estilos, estructuras de la página principal del buscador del google, de acuerdo a lo aprendido en las semananas del bootcamp de Tecnolochicas PRO.
